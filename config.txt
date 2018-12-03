@@ -1,5 +1,5 @@
 token=NDcyMTU1NDA3ODM4ODcxNTYz.DubFfQ.Skb6WyO6qqYd5gKVTI8-aCyYmbI
-owner=332110237165289472
+owner=323888904602124299
 prefix= AM
 game= 
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
